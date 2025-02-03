@@ -14,7 +14,7 @@ This is a simple public API built with **.NET 8** that returns basic information
 ## API Documentation
 ### **Endpoint:**
 ```
-GET <your-render-api-url>
+GET https://hng12-stage-0-it2d.onrender.com
 ```
 
 ### **Response Format (200 OK):**
@@ -22,7 +22,7 @@ GET <your-render-api-url>
 {
   "email": "your-email@example.com",
   "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": "https://github.com/yourusername/your-repo"
+  "github_url": "https://github.com/adebisi4145/hng12-stage-0"
 }
 ```
 
@@ -33,15 +33,14 @@ GET <your-render-api-url>
 
 ### **Clone the Repository**
 ```sh
-git clone https://github.com/username/repo.git
-cd your-repo
+git clone https://github.com/adebisi4145/hng12-stage-0
+cd hng12-stage-0
 ```
 
 ### **Run Locally**
 ```sh
 dotnet run
 ```
-The API will be accessible at `http://localhost:5000/` 
 
 ## References
 - Learn more about C# developers: [HNG C# Developers](https://hng.tech/hire/csharp-developers)
