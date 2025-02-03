@@ -2,6 +2,8 @@
 
 namespace hng12_stage_0.Controllers
 {
+    [ApiController]
+    [Route("/")]
     public class InformationController : Controller
     {
         [HttpGet]
