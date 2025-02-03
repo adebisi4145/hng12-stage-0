@@ -33,7 +33,7 @@ GET https://hng12-stage-0-it2d.onrender.com
 
 ### **Clone the Repository**
 ```sh
-git clone https://github.com/adebisi4145/hng12-stage-0
+git clone https://github.com/adebisi4145/hng12-stage-0.git
 cd hng12-stage-0
 ```
 
